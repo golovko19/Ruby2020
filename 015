@@ -1,0 +1,13 @@
+a = 2
+c = 4
+
+b=Math.sqrt(c**2-a**2)
+
+puts (b)
+print ("2 катет")
+
+p=1/2(a+b+c)
+r=Math.sqrt((p-a)(p-b)(p-c)/p)
+
+puts (r)
+print ("Радиус")

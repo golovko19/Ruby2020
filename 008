@@ -1,0 +1,7 @@
+n=4
+r=20
+
+S=2*r*n*Math.atan(3.14/n)
+
+print ("Периметр")
+puts (S)

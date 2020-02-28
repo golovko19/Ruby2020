@@ -1,0 +1,5 @@
+x=4
+y=2
+
+c= (x.abs-y.abs)/(1+(x*y).abs)
+puts (c)

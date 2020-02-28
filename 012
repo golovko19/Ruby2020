@@ -1,0 +1,6 @@
+x=2
+
+S=(x**2*Math.sqrt(3))/4
+
+print ("Площадь")
+puts(S)
